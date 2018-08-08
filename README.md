@@ -9,7 +9,7 @@ Created for fix this issue https://github.com/webpack-contrib/mini-css-extract-p
 $ npm install --save-dev only-web-loader
 ```
 
-## Usage (Ignoring all `.css`)
+## Usage (Ignoring all `.css` when the target is not `web`)
 
 - In `webpack.config.js`
 
