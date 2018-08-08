@@ -1,0 +1,9 @@
+{
+  "name": "only-web-loader",
+  "description": "Webpack loader to ignore certain package on build when the target is not web.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RubtsovAV/only-web-loader.git"
+  }
+}
